@@ -10,4 +10,4 @@ Product.create!(name: "Maxwell House Original Roast", price: 7.99, description: 
 
 Product.create!(name: "Bic Cristal Ballpoint Pen, Medium Point (1.0mm), Blue, 24-count", price: 6.99, description: "Iconic hexagon-shaped barrel")
 
-Product.create!(name: "Gulfstream G200", price: 5647000.00, description: "Twin-engine business jet")
+Product.create!(name: "Gulfstream G200", price: 5647000.99, description: "Twin-engine business jet")
